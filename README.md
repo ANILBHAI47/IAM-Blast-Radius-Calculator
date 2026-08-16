@@ -127,7 +127,7 @@ Actions:
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/IAM-Blast-Radius-Calculator.git
+git clone https://github.com/ANILBHAI47/IAM-Blast-Radius-Calculator.git
 cd IAM-Blast-Radius-Calculator
 ```
 
